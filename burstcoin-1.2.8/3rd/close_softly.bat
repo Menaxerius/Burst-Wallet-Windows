@@ -1,0 +1,1 @@
+SendSignalCtrlC64 -1
